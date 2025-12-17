@@ -1,0 +1,3 @@
+# EDAG Public Solutions
+## Wir digitalisieren den öffentlichen Sektor
+Im öffentlichen Sektor gewinnen digitale Lösungen zunehmend an Bedeutung. Optimierte Prozesse, Datenvernetzung und eine digitale Infrastruktur sorgen dafür, dass zahlreiche Nutzenpotenziale im öffentlichen Sektor realisiert werden können. Als innovativer Partner und neutraler Berater stehen wir Städten, Landkreisen, Bundesländern oder auch kommunalen IT-Dienstleistern mit unseren verschiedenen Lösungsstrategien zur Seite. Dabei unterstützen wir Sie von der Beratung über die Entwicklung, vor allem operativ während der Umsetzung, bis hin zum Betrieb.
